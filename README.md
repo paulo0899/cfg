@@ -1,5 +1,7 @@
 Minhas configurações do CSGO
 
+#
+
 Deve ser colocado antes de iniciar o csgo, -novid -high -noforcemaccel -noforcemspd -sw -noborder -console
 
 Caminho: Propriedades>Geral>Definir opções de inicialização>
